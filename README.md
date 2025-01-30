@@ -1,0 +1,2 @@
+# DataFilesOnGit
+streamlitでランキングサーバーもどきを作った
